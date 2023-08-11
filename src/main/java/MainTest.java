@@ -5,5 +5,6 @@
 public class MainTest {
     public static void main(String[] args) {
         System.out.println("Hhah ");
+        System.out.println("aa");
     }
 }
