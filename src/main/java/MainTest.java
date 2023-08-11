@@ -8,6 +8,6 @@ public class MainTest {
         System.out.println("aa");
         System.out.println("aabb");
         System.out.println("ccc");
-        
+        System.out.println("aaa");
     }
 }
