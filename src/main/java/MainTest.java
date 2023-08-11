@@ -9,5 +9,6 @@ public class MainTest {
         System.out.println("aabb");
         System.out.println("ccc");
         System.out.println("aaa");
+        System.out.println("cc");
     }
 }
